@@ -67,7 +67,9 @@ This script is designed for:
 
 ## 📄 License
 
-MIT License (feel free to use/modify with credit)
+MIT License 
+Devloper :- Roshu18,5eqnMVZDg1cezjZh
+Discord :- Cyber Nexus, Simple
 
 ---
 
